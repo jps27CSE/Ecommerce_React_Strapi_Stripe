@@ -25,9 +25,9 @@
       width: 200px;
       margin-bottom: 20px;
       @include md {
-        width: 550px;
-        margin-right: 0px;
-        margin-top: 40px;
+        width: 400px;
+        margin-right: 60px;
+        margin-top: 0px;
         margin-bottom: 0;
       }
       @include xxl {
