@@ -37,7 +37,7 @@ const Header = () => {
             <li>Categories</li>
           </ul>
           <div className="center" onClick={() => navigate("/")}>
-            JSDEVSTORE.
+            JPS Store
           </div>
           <div className="right">
             <TbSearch onClick={() => setSearchModal(true)} />
